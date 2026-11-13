@@ -1,7 +1,7 @@
 # JPack:
 
 JPack is a **Jittor-based reconstruction project** for Online 3D Bin Packing (Online 3D-BPP). Built on top of our team's previously released **RoboBPP** benchmark, this repository ports several representative Torch-based methods to **Jittor** and organizes them into a reusable codebase for training, testing, and evaluation.
-
+![JPack Overview](./JPack.jpg)
 The repository currently contains four core subprojects:
 
 - `AR2L`: Adjustable Robust Reinforcement Learning
